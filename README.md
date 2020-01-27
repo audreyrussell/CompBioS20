@@ -1,4 +1,4 @@
 # CompBioS20
-#bio modeling class
+bio modeling class
 
 this is a test
